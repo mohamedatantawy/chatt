@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509477884312",
+    "project_id": "devlep",
+    "storage_bucket": "devlep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509477884312:android:d71af5403366b1eef1dbed",
+        "android_client_info": {
+          "package_name": "com.example.develp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjV98l-jixBwXURRKE0lW2FCeoLI2tIwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
